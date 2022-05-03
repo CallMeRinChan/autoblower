@@ -3,3 +3,5 @@
 
 #insert tensorflow stuff
 import tensorflow
+
+# TODO: number recognition
